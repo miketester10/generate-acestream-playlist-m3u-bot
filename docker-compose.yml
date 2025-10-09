@@ -1,0 +1,13 @@
+services:
+  GenerateAcestreamPlaylist:
+    image: node:20
+    container_name: GenerateAcestreamPlaylist
+    working_dir: /app
+    volumes:
+      - .:/app
+    env_file:
+      - .env
+    environment:
+      - TZ=Europe/Rome
+    restart: unless-stopped
+    command: ["sh", "-c", "npm install --include=dev && npm run start"]
