@@ -20,16 +20,17 @@ const GITHUB_PATH_REMOTE = process.env.GITHUB_PATH_REMOTE!;
 
 // Gestione comando /start
 bot.command("start", (ctx) => {
+  ctx.sendChatAction("typing");
   ctx.reply("👋 Ciao!");
 });
 
 // Gestione comando /update
 bot.command("update", async (ctx) => {
-  ctx.sendChatAction("upload_document");
-
   // Controllo se l'utente può usare il bot
   const telegramId = ctx.from?.id!;
   if (!allowedUsers.includes(telegramId)) return await ctx.reply(`❌ You aren't allowed to use this bot.`);
+
+  ctx.sendChatAction("typing");
 
   try {
     // Download del file
