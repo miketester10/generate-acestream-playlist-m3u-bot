@@ -3,6 +3,9 @@
 #EXTINF:-1, Canal+ HD
 https://media.mikeserver2026.duckdns.org/ace/getstream?id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
 
+#EXTINF:-1, Dazn 1 FullHD 🇮🇹
+https://media.mikeserver2026.duckdns.org/ace/getstream?id=9e6ef3ee002ce4d62062bcad7eebff4dcb0b82ef
+
 #EXTINF:-1, Dazn 1 Bar FullHD
 https://media.mikeserver2026.duckdns.org/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 
@@ -71,6 +74,9 @@ https://media.mikeserver2026.duckdns.org/ace/getstream?id=eab7aeef0218ce8b0752e5
 
 #EXTINF:-1, Sky Sport FHD (Premier League)
 https://media.mikeserver2026.duckdns.org/ace/getstream?infohash=e33fb63ba12cf45bcee7757c8520f561ad27a39f
+
+#EXTINF:-1, Sport TV3 FHD 🇵🇹
+https://media.mikeserver2026.duckdns.org/ace/getstream?id=13d84366dcb9607c15cd9a78b5a3921046ac65b6
 
 #EXTINF:-1, TNT Sports 1 FHD (50fps)
 https://media.mikeserver2026.duckdns.org/ace/getstream?infohash=19c5c13a8e7273d78d53fdaea3deaf1b80e938fa
