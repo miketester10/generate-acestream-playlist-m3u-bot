@@ -81,8 +81,11 @@ https://media.mikeserver2026.duckdns.org/ace/getstream?id=42fe2ce3ef6b92653a74d8
 #EXTINF:-1, Sky Sport FHD (Main Event)
 https://media.mikeserver2026.duckdns.org/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 
-#EXTINF:-1, Sky Sport FHD (Premier League)
+#EXTINF:-1, Sky Sport FHD (Premier League) (1)
 https://media.mikeserver2026.duckdns.org/ace/getstream?infohash=e33fb63ba12cf45bcee7757c8520f561ad27a39f
+
+#EXTINF:-1, Sky Sport FHD (Premier League) (2)
+https://media.mikeserver2026.duckdns.org/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 
 #EXTINF:-1, Sport TV3 FHD 🇵🇹
 https://media.mikeserver2026.duckdns.org/ace/getstream?id=13d84366dcb9607c15cd9a78b5a3921046ac65b6
