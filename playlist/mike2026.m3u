@@ -1,5 +1,8 @@
 #EXTM3U Serie A
 
+#EXTINF:-1, Bein Sport 1 FullHD 🇫🇷 
+http://35.152.248.122:6878/ace/getstream?id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
+
 #EXTINF:-1, Canal+ HD
 http://35.152.248.122:6878/ace/getstream?id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
 
