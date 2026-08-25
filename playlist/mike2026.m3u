@@ -84,6 +84,9 @@ http://35.152.248.122:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abe
 #EXTINF:-1, Sky Sport FHD (Main Event)
 http://35.152.248.122:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 
+#EXTINF:-1, Sky Sport FHD (Football)
+http://35.152.248.122:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+
 #EXTINF:-1, Sky Sport FHD (Premier League) (1)
 http://35.152.248.122:6878/ace/getstream?infohash=e33fb63ba12cf45bcee7757c8520f561ad27a39f
 
